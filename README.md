@@ -1,10 +1,38 @@
 # vue-admin
+<<<<<<< HEAD
 vue admin
 
 
 # vue-admin
 vue admin
 
+=======
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## git
+>>>>>>> feature-vueAdmin-V1.0.0-20200804
 ## git常用命令
 
 - 拷贝项目git clone
@@ -17,4 +45,9 @@ vue admin
 - 拉取git pull
 - 推送git push
 - 查看分支git branch --list
+<<<<<<< HEAD
 - 查看分支git branch -a
+=======
+- 查看分支git branch -a
+
+>>>>>>> feature-vueAdmin-V1.0.0-20200804
