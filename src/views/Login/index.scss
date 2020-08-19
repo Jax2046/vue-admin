@@ -4,8 +4,11 @@
   overflow: hidden;
 
   .login-wrap {
+    position: absolute;
     width: 339px;
-    margin: 10px auto;
+    left: 50%;
+    top: 50%;
+    transform: translate(-170px,-50%);
 
     .menu-tab {
       text-align: center;
